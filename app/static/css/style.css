@@ -1,0 +1,94 @@
+@import url(http://fonts.googleapis.com/css?family=Rye);
+@import url(http://fonts.googleapis.com/css?family=MedievalSharp);
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica);
+body{
+  margin: 0px;
+  background-color: rgba(175, 27, 96, 0.91);
+}
+nav{
+  float: left;
+  width: 100%;
+  background-color: rgba(36, 206, 158, 0.95);
+}
+
+span{
+  font-family: 'Rye', cursive;
+}
+
+h1{
+  border: 18px;
+  width: 100%;
+  margin: 0px;
+  padding: 20px;
+  background-color: rgba(199, 199, 223, 0.95);
+}
+
+.menu{
+  border-radius: 17px;
+  font-family: 'MedievalSharp', cursive;
+  margin: 7px;
+  padding: 8px 8px 8px 8px;
+  background-color: #4F4C96;
+  text-decoration: none;
+  color: rgba(199, 199, 223, 0.95);
+}
+
+a:hover{
+  /* background-color: rgba(199, 199, 223, 0.95); */
+  color: rgba(36, 206, 158, 0.95);
+}
+
+img{
+  margin: 0px -2px;
+  height: 362px;
+}
+#no{
+  font-family: sans-serif;
+}
+
+#selected{
+  color: rgba(36, 206, 158, 0.95);
+}
+
+p{
+  margin:7px 0px 0px 17px;
+  padding-top: 2px;
+}
+
+.about{
+  padding-top: 20px;
+  padding-right: 18px;
+  float: right;
+  font-family: 'IM Fell DW Pica', serif;
+  width: 50%;
+}
+
+.pic1{
+  padding-top: 20px;
+  padding-left: 11px;
+}
+
+.disc{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.disctxt{
+  float: right;
+  padding: 10px 120px 0px 0px;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-right: 240px;
+  border: 0px;
+  width: 40%;
+  font-family: 'IM Fell DW Pica', serif;
+}
+
+.tour{
+  font-family: 'IM Fell DW Pica', serif;
+}
+
+iframe{
+  padding-left: 30px;
+  padding-bottom: 16px;
+}
